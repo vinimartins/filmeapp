@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_white"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/ic_map_white"
+        android:title="@string/maps"/>
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_assignment_white"
+        android:title="@string/about_the_app"/>
+
+    <item
+        android:id="@+id/navigation_signout"
+        android:icon="@drawable/ic_exit_to_app_white"
+        android:title="@string/exit_the_app"/>
+
+</menu>

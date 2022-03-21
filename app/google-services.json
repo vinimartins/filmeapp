@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228440296542",
+    "firebase_url": "https://trabalhoandroidmovie.firebaseio.com",
+    "project_id": "trabalhoandroidmovie",
+    "storage_bucket": "trabalhoandroidmovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228440296542:android:03e34f79584d241b02b8cf",
+        "android_client_info": {
+          "package_name": "com.example.trabalhodeconclusoandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228440296542-9gj5ojlph0640m53nvui4fea9qc8svh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO2vDBA5C9CNWd8IpZ-lKr-eRD3-cyxRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228440296542-9gj5ojlph0640m53nvui4fea9qc8svh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
